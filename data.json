@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Прокинутись",
+        "description": "О - 08:00",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Поснідати",
+        "description": "О 09:00",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Почистити зуби",
+        "description": "О 09:15",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "title": "Дістатись робочого місця",
+        "description": "До 10:30",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Працювати до першої перерви",
+        "description": "О 13:00",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "title": "Пообідати",
+        "description": "О 13:10",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "title": "Працювати далі",
+        "description": "До 18:00",
+        "completed": false
+    },
+    {
+        "id": 8,
+        "title": "Прибрати робоче місце",
+        "description": "До 18:10",
+        "completed": false
+    },
+    {
+        "id": 9,
+        "title": "Приїхати додому",
+        "description": "До 19:00",
+        "completed": false
+    },
+    {
+        "id": 10,
+        "title": "Повечеряти",
+        "description": "О 20:00",
+        "completed": false
+    },
+    {
+        "id": 11,
+        "title": "Прийняти душ",
+        "description": "О 20:30",
+        "completed": false
+    },
+    {
+        "id": 12,
+        "title": "Подивитись кіно",
+        "description": "До 21:30",
+        "completed": false
+    },
+    {
+        "id": 13,
+        "title": "Сон",
+        "description": "О 22:00",
+        "completed": true
+    }
+]
