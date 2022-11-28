@@ -1,0 +1,15 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "devDependencies": {
+    "fast-xml-parser": "^4.0.12",
+    "http": "^0.0.1-security"
+  },
+  "author": "",
+  "license": "ISC"
+}
